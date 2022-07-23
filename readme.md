@@ -19,4 +19,11 @@
 - Criar um programa de geração de stickers/figurinhas através de consumo de APIs;
 - Criar as rotas de CRUD em Java com padrão RESTful através do Springboot;
 - Conexão com banco de dados em formato JSON utilizando um banco NoSQL (Mongo DB);
-- Fazer conexão da aplicação com uma CLOUD básica (optada pelo Heroku).
+- Fazer conexão da aplicação com uma Cloud básica (optada pelo Heroku).
+
+
+OBS: Em desenvolvimento.
+** Ainda não implementado:
+- Consumo de API da Marvel;
+- Finalizar CRUD com rotas para Update e Delete;
+- Deploy para a Cloud do Heroku.
